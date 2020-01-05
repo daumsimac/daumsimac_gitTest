@@ -17,6 +17,8 @@ namespace ConsoleApp1
 
 			trimmedGreeting = greeting.Trim();
 			Console.WriteLine($"[{ trimmedGreeting}]");
+
+			Console.WriteLine("This is a test!!!");
 		}
 	}
 }
